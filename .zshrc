@@ -36,3 +36,5 @@ source $SCRIPT_DIR/zsh/plugins.zsh
 source $SCRIPT_DIR/zsh/alias.zsh
 source $SCRIPT_DIR/zsh/theme.zsh
 source $SCRIPT_DIR/zsh/p10k.zsh
+
+export PATH=$HOME/.cargo/bin:$PATH
