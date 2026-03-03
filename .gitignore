@@ -2,12 +2,18 @@
 /.**
 
 !/.zshrc
+!.zshrc.grml
 
+!/zsh/p10k.zsh
+!/zsh/theme.zsh
+!/zsh/config.zsh
+!/zsh/plugins.zsh
 
 !/.bin
 !/.bin/**
 !/.config/
 !/.config/**
+
 
 !/.gitconfig
 !/.gitignore
