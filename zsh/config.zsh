@@ -53,11 +53,5 @@ zle -N history-beginning-search-forward-end history-search-end
 bindkey "^P" history-beginning-search-backward-end
 bindkey "^N" history-beginning-search-forward-end
 
-alias ls='ls  --color=auto -G'
-alias l='ls -ltrG'
-alias la='ls -laG'
-alias ll='ls -lG'
-alias ls='ls -G'
-alias grep='grep --color=auto'
-alias ...='cd ../../'
-alias his='history -E -i 1 | fzf'
+# enhancd
+#source ~/.enhancd/init.sh
