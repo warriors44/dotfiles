@@ -1,0 +1,7 @@
+[user]
+	name = warriors44
+	email = shinya.tsc7@gmail.com
+[core]
+	editor = nano
+[init]
+        defaultBranch = main

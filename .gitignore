@@ -1,0 +1,14 @@
+/*
+/.**
+
+!/.zshrc
+
+
+!/.bin
+!/.bin/**
+!/.config/
+!/.config/**
+
+!/.gitconfig
+!/.gitignore
+
