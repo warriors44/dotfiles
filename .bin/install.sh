@@ -49,3 +49,9 @@ done
 link_to_homedir
 git config --global include.path "~/.gitconfig_shared"
 command echo -e "\e[1;36m Install completed!!!! \e[m"
+
+
+curl https://sh.rustup.rs -sSf | sh
+cargo install eza
+cargo install fd-find
+cargo install git-delta
