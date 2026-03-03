@@ -52,6 +52,7 @@ command echo -e "\e[1;36m Install completed!!!! \e[m"
 
 
 curl https://sh.rustup.rs -sSf | sh
+. "$HOME/.cargo/env"
 cargo install eza
 cargo install fd-find
 cargo install git-delta
