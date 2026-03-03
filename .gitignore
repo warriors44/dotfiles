@@ -9,6 +9,7 @@
 !/zsh/theme.zsh
 !/zsh/config.zsh
 !/zsh/plugins.zsh
+!/zsh/setenv.sh
 
 !/.bin
 !/.bin/**
