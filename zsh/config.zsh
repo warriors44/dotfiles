@@ -55,3 +55,6 @@ bindkey "^N" history-beginning-search-forward-end
 
 # enhancd
 #source ~/.enhancd/init.sh
+
+#環境変数の設定
+export PATH=$HOME/.cargo/bin:$PATH

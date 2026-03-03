@@ -17,6 +17,13 @@ else
   alias diff='git diff --color=auto'
 fi
 
+if command -v fd >/dev/null 2>&1; then
+  alias find='fd'
+else
+  alias find='find'
+fi
+
+
 alias ..='cd ..'
 alias ...='cd ../../'
 alias ....='cd ../../../'
