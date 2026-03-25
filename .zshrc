@@ -39,4 +39,4 @@ source $SCRIPT_DIR/zsh/theme.zsh
 source $SCRIPT_DIR/zsh/p10k.zsh
 
 
-[ -f ~/.zshrc.local ] && source ~/.zshrc.local
+[ -f $HOME/.zshrc.local ] && source $HOME/.zshrc.local
