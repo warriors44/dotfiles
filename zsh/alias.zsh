@@ -31,3 +31,4 @@ alias ....='cd ../../../'
 
 alias grep='grep --color=auto'
 alias his='history -E -i 1 | fzf'
+alias qdelall='qselect -u "$(whoami)" | xargs qdel'
